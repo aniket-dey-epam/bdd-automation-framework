@@ -1,0 +1,9 @@
+target/
+reports/cucumber/*.html
+reports/cucumber/*.json
+reports/screenshots/*.png
+logs/*.log
+.idea/
+*.iml
+.vscode/
+.DS_Store
